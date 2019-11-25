@@ -21,9 +21,9 @@ public class Clase004_EntradaSalidaDatos {
 		 
 		 // los metodos NO estaticos necesitan de un OBJETO.
 		 
-		 System.out.println("Introduce un nombre: ");
-		 
+		 System.out.println("Introduce un nombre: ");		 
 		 String nombre=entrada.nextLine(); // conseguimos q la consola se qde a la espera de un valor de tipo STRING. Y lo almacenara en 'nombre'.
+		 
 		 System.out.println("Ingrese edad: ");
 		 int edad = entrada.nextInt();// conseguimos q la consola se qde a la espera de un valor de tipo INT. Y lo almacenara en 'edad'.
 		 
