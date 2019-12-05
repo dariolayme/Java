@@ -11,7 +11,8 @@ public class Uso_Coche {
 		Coche coche01 = new Coche();//Instanciar una Clase. De la clase Coche.
 		
 		System.out.println("Este coche tiene " + coche01.ruedas() +" ruedas.");
-		
+		coche01.setColor("verde");
+		System.out.println(coche01.getColor());
 
 	}
  
