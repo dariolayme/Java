@@ -1,6 +1,10 @@
 package Clase009_POO;
 
+<<<<<<< HEAD
 //------------------ Temas: HERENCIA - SUPER - INSTANCIAR OBJETO INICIADO - CONSTRUCTOR - Casting - Clases FINAL  -------------------------------------
+=======
+//------------------ Temas: HERENCIA - SUPER -  -------------------------------------
+>>>>>>> f6ae5f55120c24ea0f5c6d8bdf638241dba37be7
 
 
 public class Coche {
@@ -52,7 +56,10 @@ public class Coche {
 		return ancho*peso;
 	}
 	
+<<<<<<< HEAD
 	
+=======
+>>>>>>> f6ae5f55120c24ea0f5c6d8bdf638241dba37be7
 	public void mostrarDatos() {
 		System.out.println("Datos: " + ruedas +" "+ motor+" " + peso );
 	}

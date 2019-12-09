@@ -2,6 +2,7 @@ package Clase009_POO;
 
 
 //JAVA no admite HERENCIA multiple.
+<<<<<<< HEAD
 /*
  * En java se pueden tener mas de 1 constructor.
  */
@@ -9,6 +10,10 @@ package Clase009_POO;
 
 // con el Modificador FINAL evitamos la herencia sobre la Clase Furgoneta.	
 final class Furgoneta extends Coche {
+=======
+
+public class Furgoneta extends Coche {
+>>>>>>> f6ae5f55120c24ea0f5c6d8bdf638241dba37be7
 	
 	private int capacidadCarga;
 	private int plazasExtra;

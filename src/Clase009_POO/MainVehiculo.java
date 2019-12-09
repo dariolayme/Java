@@ -15,6 +15,7 @@ public class MainVehiculo {
 		coche1.mostrarDatos();
 		furgoneta1.mostrarDatos();
 		
+<<<<<<< HEAD
 		//ENLAZADO DINAMICO
 		/*
 		 * La MV de java es capas en tiempo de ejecucion de saber aq metodo perteneciente a la clase padre 
@@ -49,3 +50,8 @@ public class MainVehiculo {
 }
 
 
+=======
+	}
+
+}
+>>>>>>> f6ae5f55120c24ea0f5c6d8bdf638241dba37be7
